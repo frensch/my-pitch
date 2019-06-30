@@ -1,4 +1,4 @@
-# DEPLOY  DO BACKEND
+# DEPLOY BACKEND
 *  run `sls deploy -v`
 
 
